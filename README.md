@@ -1,7 +1,5 @@
------
-
 # Point of Sale (Mini POS)
-
+![Tampilan Dashboard](screenshots/image.png)
 Sistem aplikasi Point of Sale (POS) berbasis web menggunakan **Laravel** dan **Vue 3**. Aplikasi ini dirancang untuk kebutuhan kasir dan manajemen toko skala kecil-menengah, menawarkan solusi yang efisien dan modern.
 
 ## Fitur Utama
@@ -31,6 +29,12 @@ Aplikasi ini mendukung dua jenis peran pengguna dengan hak akses yang berbeda:
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+-----
+
+## Tampilan Aplikasi
+
+Berikut adalah contoh tampilan dashboard analitik penjualan dan laporan dari aplikasi Mini POS:
 
 -----
 
