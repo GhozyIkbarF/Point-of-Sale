@@ -21,16 +21,16 @@ Aplikasi Mini POS ini dilengkapi dengan fitur-fitur esensial untuk mengelola pen
 Aplikasi ini mendukung dua jenis peran pengguna dengan hak akses yang berbeda:
 
   * **Admin**: Memiliki kontrol penuh atas sistem, termasuk mengelola produk, melihat seluruh transaksi, mengakses laporan lengkap, dan mengelola pengguna lain.
-  * **Kasir**: Hanya dapat melakukan transaksi penjualan, melihat transaksi yang mereka lakukan, dan mengakses laporan harian pribadi mereka.
+  * **Kasir**: Hanya dapat melakukan transaksi penjualan, melihat seluruh transaksi serta transaksi yang mereka lakukan, dan mengakses laporan harian pribadi mereka.
 
 -----
 
-\<p align="center"\>
-\<a href="[https://github.com/laravel/framework/actions](https://github.com/laravel/framework/actions)"\>\<img src="[https://github.com/laravel/framework/workflows/tests/badge.svg](https://github.com/laravel/framework/workflows/tests/badge.svg)" alt="Build Status"\>\</a\>
-\<a href="[https://packagist.org/packages/laravel/framework](https://packagist.org/packages/laravel/framework)"\>\<img src="[https://img.shields.io/packagist/dt/laravel/framework](https://img.shields.io/packagist/dt/laravel/framework)" alt="Total Downloads"\>\</a\>
-\<a href="[https://packagist.org/packages/laravel/framework](https://packagist.org/packages/laravel/framework)"\>\<img src="[https://img.shields.io/packagist/v/laravel/framework](https://img.shields.io/packagist/v/laravel/framework)" alt="Latest Stable Version"\>\</a\>
-\<a href="[https://packagist.org/packages/laravel/framework](https://packagist.org/packages/laravel/framework)"\>\<img src="[https://img.shields.io/packagist/l/laravel/framework](https://img.shields.io/packagist/l/laravel/framework)" alt="License"\>\</a\>
-\</p\>
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
 -----
 
